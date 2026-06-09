@@ -43,7 +43,6 @@ Olá! Sou o **João Pedro**. Sou estudante de **Sistemas de Informação** com f
 ### Projetos em Destaque
 
 * **[Portfólio Profissional](https://github.com/joaopedrol25/portfolio-profissional):** Meu portfólio pessoal e profissional.
-* **[Blog Pessoal](https://github.com/joaopedrol25/blog):** Um sistema simples de blog construído para compartilhar aprendizados, tutoriais e anotações técnicas de estudo.
 
 ---
 
