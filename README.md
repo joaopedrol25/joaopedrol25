@@ -6,36 +6,46 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-ara%C3%BAjo-lima-146005179/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/joaopedrol25/portfolio-profissional"><strong>Portfólio</strong></a>
 </p>
 
-Sou estudante de **Sistemas de Informação**. Gosto de transformar problemas do dia a dia em ferramentas, da montagem de horários acadêmicos à automação de commits. Também estudo como os programas funcionam no Linux e como preparar ambientes com Docker.
+## O que faço
 
-## O que tenho feito
+Sou estudante de **Sistemas de Informação**, com foco em **back-end, DevOps e infraestrutura Linux**. Na prática, monto ambientes com **Docker Compose**, configuro serviços web e DNS e escrevo scripts em **Bash** para automatizar tarefas do Git.
 
-### Grade Clara
+### Linguagens e dados
 
-Uma aplicação que combina turmas para montar **grades acadêmicas sem conflitos**. Dá para comparar horários por tempo livre entre aulas, dias no campus ou horário de saída, além de importar um catálogo próprio e exportar a grade em `.ics`.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40" />
+</p>
 
-<a href="https://github.com/joaopedrol25/grade-clara">
-  <img src="https://raw.githubusercontent.com/joaopedrol25/grade-clara/309e7749d51bccaea272281e316bcc3083122319/docs/grade-clara.png" alt="Grade Clara com disciplinas selecionadas e uma grade semanal gerada" width="100%" />
-</a>
+### Infraestrutura e ferramentas
 
-Desenvolvido com **JavaScript e Node.js**, com testes para a geração de horários e a exportação do calendário. [Ver o Grade Clara](https://github.com/joaopedrol25/grade-clara)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="40" height="40" />
+</p>
 
-### Estudos e laboratórios
+## Estudos
 
-- **Sistemas Operacionais.** Nove exemplos em **C, Python e Java** para explorar chamadas de sistema, processos e sincronização de threads no Linux. [Ver laboratório](https://github.com/joaopedrol25/operation-system)
-- **Banco de Dados I.** Caderno de estudos sobre modelagem entidade–relacionamento, com exercícios e um estudo de caso de biblioteca implementado em **SQLite**. [Ver material](https://github.com/joaopedrol25/data-base-1)
+- **Sistemas Operacionais.** Nove exemplos em **C, Python e Java** para explorar chamadas de sistema, processos e sincronização de threads no Linux. [Ver laboratório de SO](https://github.com/joaopedrol25/operation-system)
+- **Banco de Dados I.** Caderno de modelagem entidade–relacionamento com exercícios e um estudo de caso de biblioteca implementado em **SQLite**. [Ver material de BD I](https://github.com/joaopedrol25/data-base-1)
+- **Programação Orientada a Objetos I.** Trilha de **Java** com exemplos e exercícios, dos fundamentos a um projeto de locadora de ferramentas que reúne os quatro pilares da POO. [Ver trilha de POO I](https://github.com/joaopedrol25/poo-1)
 
-## Outros projetos
+## Docker e infraestrutura
 
-- **git-auto.** Ferramenta em **Bash** que usa o Gemini para sugerir mensagens no padrão Conventional Commits a partir das alterações preparadas no Git. A mensagem passa por revisão no terminal antes do commit. [Ver git-auto](https://github.com/joaopedrol25/git-auto)
-- **Docker Lab.** Laboratório introdutório de **Docker Compose** com práticas de servidor web em Nginx e DNS local com AdGuard Home. [Ver Docker Lab](https://github.com/joaopedrol25/docker-lab)
-- **Gerador de senhas.** CLI em **Python** com opções de tamanho e caracteres, estimativa de entropia e integração com a área de transferência no Linux. [Ver gerador](https://github.com/joaopedrol25/gerador-senhas)
+O **Docker Lab** reúne guias e configurações para praticar com contêineres, portas e volumes usando **Docker Compose**. [Ver Docker Lab](https://github.com/joaopedrol25/docker-lab)
 
-## Tecnologias
+- **Servidor web com Nginx.** Um contêiner que serve uma página HTML montada por volume, com configuração comentada de portas. [Ver prática de Nginx](https://github.com/joaopedrol25/docker-lab/tree/main/nginx-service)
+- **DNS local com AdGuard Home.** Serviço em contêiner para filtrar anúncios e rastreadores na rede, com volumes para persistir dados e configurações. [Ver prática de DNS](https://github.com/joaopedrol25/docker-lab/tree/main/dns-service)
+- **Deploy com Docker e Nginx.** Build em múltiplos estágios que compila uma aplicação React e serve os arquivos pelo Nginx. [Ver Dockerfile](https://github.com/joaopedrol25/portfolio-profissional/blob/main/Dockerfile)
 
-- **Linguagens e dados** · Java, C, Python, JavaScript, Bash e SQL
-- **Infraestrutura e ferramentas** · Linux, Docker, Docker Compose, Nginx e Git
+## Automação
+
+**git-auto** é uma ferramenta em **Bash** que usa o Gemini para sugerir mensagens no padrão Conventional Commits a partir das alterações preparadas no Git. A mensagem passa por revisão no terminal antes do commit. [Ver git-auto](https://github.com/joaopedrol25/git-auto)
