@@ -1,46 +1,41 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+João+Pedro!;Back-End+Developer;DevOps+Enthusiast;Welcome+to+my+profile!&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/capa-perfil.png" alt="João Pedro de Araújo Lima" width="100%" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-ara%C3%BAjo-lima-146005179/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<h1 align="center">Back-end, automação e infraestrutura</h1>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-de-ara%C3%BAjo-lima-146005179/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joaopedrol25/portfolio-profissional"><strong>Portfólio</strong></a>
+</p>
 
-### Sobre Mim
+Sou estudante de **Sistemas de Informação**. Gosto de transformar problemas do dia a dia em ferramentas, da montagem de horários acadêmicos à automação de commits. Também estudo como os programas funcionam no Linux e como preparar ambientes com Docker.
 
-Olá! Sou o **João Pedro**. Sou estudante de **Sistemas de Informação** com foco em **Back-End** e **DevOps (Docker & Linux)**. Acredito que o desenvolvimento de software deve andar de mãos dadas com a automação e uma infraestrutura sólida.
+## O que tenho feito
 
----
+### Grade Clara
 
-### 🛠️ Linguagens & Ferramentas
+Uma aplicação que combina turmas para montar **grades acadêmicas sem conflitos**. Dá para comparar horários por tempo livre entre aulas, dias no campus ou horário de saída, além de importar um catálogo próprio e exportar a grade em `.ics`.
 
-#### 💻 Desenvolvimento & Scripts
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash / Shell" />
-</div>
+<a href="https://github.com/joaopedrol25/grade-clara">
+  <img src="https://raw.githubusercontent.com/joaopedrol25/grade-clara/309e7749d51bccaea272281e316bcc3083122319/docs/grade-clara.png" alt="Grade Clara com disciplinas selecionadas e uma grade semanal gerada" width="100%" />
+</a>
 
-#### ☁️ DevOps, Infraestrutura & Redes
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />&nbsp;
-</div>
+Desenvolvido com **JavaScript e Node.js**, com testes para a geração de horários e a exportação do calendário. [Ver o Grade Clara](https://github.com/joaopedrol25/grade-clara)
 
----
+### Estudos e laboratórios
 
-### Projetos em Destaque
+- **Sistemas Operacionais.** Nove exemplos em **C, Python e Java** para explorar chamadas de sistema, processos e sincronização de threads no Linux. [Ver laboratório](https://github.com/joaopedrol25/operation-system)
+- **Banco de Dados I.** Caderno de estudos sobre modelagem entidade–relacionamento, com exercícios e um estudo de caso de biblioteca implementado em **SQLite**. [Ver material](https://github.com/joaopedrol25/data-base-1)
 
-* **[Portfólio Profissional](https://github.com/joaopedrol25/portfolio-profissional):** Meu portfólio pessoal e profissional.
-* **[git-auto](https://github.com/joaopedrol25/git-auto):** Script interativo em Bash que automatiza seu fluxo Git diário utilizando API de IA para ler o seu `git diff` e sugerir mensagens de commit altamente profissionais no padrão **Conventional Commits**
+## Outros projetos
 
----
+- **git-auto.** Ferramenta em **Bash** que usa o Gemini para sugerir mensagens no padrão Conventional Commits a partir das alterações preparadas no Git. A mensagem passa por revisão no terminal antes do commit. [Ver git-auto](https://github.com/joaopedrol25/git-auto)
+- **Docker Lab.** Laboratório introdutório de **Docker Compose** com práticas de servidor web em Nginx e DNS local com AdGuard Home. [Ver Docker Lab](https://github.com/joaopedrol25/docker-lab)
+- **Gerador de senhas.** CLI em **Python** com opções de tamanho e caracteres, estimativa de entropia e integração com a área de transferência no Linux. [Ver gerador](https://github.com/joaopedrol25/gerador-senhas)
 
+## Tecnologias
 
+- **Linguagens e dados** · Java, C, Python, JavaScript, Bash e SQL
+- **Infraestrutura e ferramentas** · Linux, Docker, Docker Compose, Nginx e Git
